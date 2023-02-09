@@ -4,3 +4,9 @@ creations-act-iii
 # Creations - Act III
 
 Part of "Creations - Acts" at https://github.com/vanHeemstraSystems/creations-acts
+
+Can be read as "Creations - Act III" at https://app.gitbook.com/o/NOqeW3nD9tJaUGh3bDjj/s/18kaIMCBXETzDoD6sw3j/
+
+Can be browsed as "Creations - Act II" at https://vanheemstrasystems.github.io/creations-act-iiI/
+
+Documentation of this repository is automatically done with Quarto using GitHub Actions as described at https://github.com/vanHeemstraSystems/quarto-to-github-pages/blob/main/300/300/README.md
