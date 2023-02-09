@@ -5,7 +5,7 @@ creations-act-iii
 
 Part of "Creations - Acts" at https://github.com/vanHeemstraSystems/creations-acts
 
-Can be read as "Creations - Act III" at https://app.gitbook.com/o/NOqeW3nD9tJaUGh3bDjj/s/18kaIMCBXETzDoD6sw3j/
+Can be read as "Creations - Act III" at https://app.gitbook.com/o/NOqeW3nD9tJaUGh3bDjj/s/W03YVO2Afj5j3z94eolP/
 
 Can be browsed as "Creations - Act II" at https://vanheemstrasystems.github.io/creations-act-iiI/
 
