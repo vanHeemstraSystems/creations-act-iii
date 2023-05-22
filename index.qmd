@@ -5,3 +5,5 @@ title: "Creations - Act III"
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+Based on "A gradual Prepare-Build-Scale roadmap approach toward the future of applications." at https://www.gartner.com/doc/reprints?id=1-250QS2PJ&ct=210113&st=sb
