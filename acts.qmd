@@ -1,7 +1,0 @@
----
-title: "Acts"
----
-
-About Acts
-
-See <https://vanheemstrasystems.github.io/creations-acts/>

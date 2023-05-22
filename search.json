@@ -1,17 +1,17 @@
 [
   {
+    "objectID": "SUMMARY.html",
+    "href": "SUMMARY.html",
+    "title": "Table of contents",
+    "section": "",
+    "text": "Table of contents\n\nCreations - Act III"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Creations - Act III",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
-  },
-  {
-    "objectID": "acts.html",
-    "href": "acts.html",
-    "title": "Acts",
-    "section": "",
-    "text": "About Acts\nSee https://vanheemstrasystems.github.io/creations-acts/"
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\nBased on “A gradual Prepare-Build-Scale roadmap approach toward the future of applications.” at https://www.gartner.com/doc/reprints?id=1-250QS2PJ&ct=210113&st=sb"
   },
   {
     "objectID": "about.html",
@@ -21,10 +21,10 @@
     "text": "About this site"
   },
   {
-    "objectID": "SUMMARY.html",
-    "href": "SUMMARY.html",
-    "title": "Creations - Act III",
+    "objectID": "acts.html",
+    "href": "acts.html",
+    "title": "Acts",
     "section": "",
-    "text": "Table of contents\n\nCreations - Act III"
+    "text": "About Acts\nSee https://vanheemstrasystems.github.io/creations-acts/"
   }
 ]
