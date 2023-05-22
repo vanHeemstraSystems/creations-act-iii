@@ -7,3 +7,16 @@ This is a Quarto website.
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
 Based on "A gradual Prepare-Build-Scale roadmap approach toward the future of applications." at https://www.gartner.com/doc/reprints?id=1-250QS2PJ&ct=210113&st=sb
+
+
+
+
+Navigate the Roadmap Gradually: Prepare, Build and Then Scale
+
+In response to emerging drivers for change, organizations gradually navigate their priorities on the road to the future of applications:
+
+•	The early priority on this path is to **prepare** for transformative changes by adjusting and engaging in new forms of activity and technology (the more advanced organizations may be well into, or already past, this stage in 2020).
+
+•	Once prepared, organizations are ready for the next priority, namely to **build** new solutions and organizational practices (this is the challenge awaiting most organizations in 2020).
+
+•	Once successful with early transformative changes, an organization needs to **scale** its innovation, investment and business in order the maximize the benefits of digital business transformation.
