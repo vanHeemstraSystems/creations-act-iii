@@ -15,7 +15,7 @@ Navigate the Roadmap Gradually: Prepare, Build and Then Scale
 
 In response to emerging drivers for change, organizations gradually navigate their priorities on the road to the future of applications:
 
-•	The early priority on this path is to *prepare* for transformative changes by adjusting and engaging in new forms of activity and technology (the more advanced organizations may be well into, or already past, this stage in 2020).
+•	The early priority on this path is to **prepare** for transformative changes by adjusting and engaging in new forms of activity and technology (the more advanced organizations may be well into, or already past, this stage in 2020).
 
 •	Once prepared, organizations are ready for the next priority, namely to **build** new solutions and organizational practices (this is the challenge awaiting most organizations in 2020).
 
